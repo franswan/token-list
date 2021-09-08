@@ -9116,8 +9116,11 @@
       ],
       "extensions": {
         "website": "https://boringprotocol.io",
+        "medium": "https://medium.com/@boringprotocol",
         "twitter": "https://twitter.com/BoringProtocol",
-        "serumV3Usdc": "7MmPwD1K56DthW14P1PnWZ4zPCbPWemGs3YggcT1KzsM"
+        "telegram": "https://t.me/tunnelgram",
+        "serumV3Usdc": "7MmPwD1K56DthW14P1PnWZ4zPCbPWemGs3YggcT1KzsM",
+        "coingeckoId": "boring-protocol"
       }
     },
     {
